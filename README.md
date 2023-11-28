@@ -6,4 +6,4 @@
 
 # Fix (?)
 
-- Uncomment line 34. That was no needed in the very last Spring Boot 2 for example. (Sometimes forcing IF_REQUIRED works too !)
+- Uncomment line 33 in `ApplicationSecurityConfig`. That was no needed in the very last Spring Boot 2 for example. (Sometimes forcing IF_REQUIRED works too !)
